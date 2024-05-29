@@ -1,0 +1,23 @@
+.div{
+    margin-top: 100px;
+}
+table{
+
+    margin: auto;
+    text-align: center;
+    height:200px;
+    width: 200px;
+    border-radius:8px;
+    border-collapse: collapse;
+}
+#tr{
+    background-color: brown;
+}
+#Paola{
+    background-color: darkgoldenrod;
+
+}
+body{
+    background-color: cornsilk;
+    
+}
