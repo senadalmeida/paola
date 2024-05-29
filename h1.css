@@ -1,0 +1,26 @@
+
+
+body{
+  padding: 0;
+  margin: 0;
+  background-color:cadetblue;
+}
+.container{
+  width: 400px;
+  height: 400px;
+  margin: 100px auto;
+  position: relative;
+}
+.container p{
+  font-size: 2em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "Arial";
+  position:relative;
+  top: 50%;
+  left: 50%;
+  transform:translateX(-50%) translateY(-50%);
+  text-transform:uppercase ;
+}
+ 
